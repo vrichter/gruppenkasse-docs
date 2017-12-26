@@ -1,6 +1,11 @@
+---
+title: First Steps
+permalink: /first-steps-overview/
+lang: en
+---
 ## First Steps
 
-{% include first-steps-header.md %}
+{% include first-steps-header-en.md %}
 ### The Overview
 
 <div class="w3-content w3-display-container" style="height:200px">

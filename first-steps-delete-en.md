@@ -1,6 +1,11 @@
+---
+title: First Steps
+permalink: /first-steps-delete/
+lang: en
+---
 ## First Steps
 
-{% include first-steps-header.md %}
+{% include first-steps-header-en.md %}
 ### Delete
 
 <div class="w3-content w3-display-container" style="height:600px">

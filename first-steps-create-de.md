@@ -1,13 +1,18 @@
-## First Steps
+---
+title: Erste Schritte
+permalink: /first-steps-create/
+lang: de
+---
+## Erste Schritte
 
-{% include first-steps-header.md %}
-### Create a Cash Register
+{% include first-steps-header-de.md %}
+### Gruppenkasse Erstellen
 
 <div class="w3-content w3-display-container" style="height:264px">
 
 <div class="w3-display-container mySlides">
   <div class="w3-container" style="height:80px">
-  <p>You can find the <code class="highlighter-rouge">Gruppenkasse</code> Menu under Add-Ons in Google Sheets. Choose <code class="highlighter-rouge">Create Cash Register</code> to create a new cash register.</p>
+  <p>Das <code class="highlighter-rouge">Gruppenkasse</code> Menu befindet sich unter Add-Ons in Google Sheets. Über <code class="highlighter-rouge">Gruppenkasse Erstellen</code> kann eine neue Kasseangelegt werden.</p>
   </div>
   <div class="w3-container">
   <img src="/assets/images/de/init_start.jpg" style="display:block;margin:auto">
@@ -16,7 +21,7 @@
 
 <div class="w3-display-container mySlides">
   <div class="w3-container" style="height:80px">
-  <p>Choose a name for your cash register and press <code class="highlighter-rouge">Ok</code>. This name will appear in the created form the sheets.</p>
+  <p>Wähle einen Namen für die Gruppenkasse und bestätige mit <code class="highlighter-rouge">Ok</code>. Dieser wird in den erstellen Tabellen und der Umfrage verwendet.</p>
   </div>
   <div class="w3-container">
   <img src="/assets/images/de/init_name.jpg" style="display:block;margin:auto">
@@ -25,7 +30,7 @@
 
 <div class="w3-display-container mySlides">
   <div class="w3-container" style="height:80px">
-  <p>When the initialization is done, you can open the created form via the presented link.</p>
+  <p>Nach der Initialisierung kann die Umfrage über den angezeigtern Link erreicht werden.</p>
   </div>
   <div class="w3-container">
   <img src="/assets/images/de/init_done.jpg" style="display:block;margin:auto">

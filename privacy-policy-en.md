@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /privacy-policy/
+lang: en
+---
 ## Privacy Policy
 
 The Gruppenkasse Add-on is free software. I have no interest in your data.

@@ -1,6 +1,11 @@
+---
+title: First Steps
+permalink: /first-steps-form/
+lang: en
+---
 ## First Steps
 
-{% include first-steps-header.md %}
+{% include first-steps-header-en.md %}
 ### The Form
 
 <div class="w3-content w3-display-container" style="height:900px">

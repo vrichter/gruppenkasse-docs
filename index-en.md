@@ -1,3 +1,8 @@
+---
+title: Gruppenkasse
+permalink: /index/
+lang: en
+---
 # Gruppenkasse Sheets Add-on
 
 Welcome to the Gruppenkasse documentation site.

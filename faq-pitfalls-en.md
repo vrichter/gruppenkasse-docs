@@ -1,3 +1,8 @@
+---
+title: FAQ & Pitfalls
+permalink: /faq-pitfalls/
+lang: en
+---
 ## FAQ
 
 {:toc}

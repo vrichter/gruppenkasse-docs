@@ -10,15 +10,26 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/extras.css?v=' }}">
     <link rel="stylesheet" href="{{ '/assets/css/w3.css?v=' }}">
+
+    <nav class="language-switcher">
+      {% if page.name contains "index" %}
+        <a href=" {{ site.baseurl }}/">EN</a>
+        <a href=" {{ site.baseurl | append: "/de" }}">DE</a>
+      {% else %}
+        <a href=" {{ site.baseurl | append: page.permalink }}">EN</a>
+        <a href=" {{ site.baseurl | append: "/de" | append: page.permalink }}">DE</a>
+      {% endif %}
+    </nav>
+
   </head>
   <body>
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      <a href="index" class="btn">Main</a>
-      <a href="first-steps" class="btn">First Steps</a>
-      <a href="faq-pitfalls" class="btn">FAQ and Pittfalls</a>
-      <a href="privacy-policy" class="btn">Privacy Policy</a>
+      <a href="/index" class="btn">Main</a>
+      <a href="/first-steps-create" class="btn">First Steps</a>
+      <a href="/faq-pitfalls" class="btn">FAQ and Pittfalls</a>
+      <a href="/privacy-policy" class="btn">Privacy Policy</a>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
