@@ -1,2 +1,8 @@
 theme: jekyll-theme-cayman
 title: "gruppenkasse add-on"
+plugins:
+    - jekyll-polyglot
+languages: ["en", "de"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css"]
+parallel_localization: true
