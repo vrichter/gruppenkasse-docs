@@ -1,6 +1,6 @@
 ---
 title: Gruppenkasse
-permalink: /index/
+permalink: /
 lang: de
 ---
 # Gruppenkasse Sheets Add-on
