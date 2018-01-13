@@ -10,12 +10,12 @@ lang: en
 ### There are no names and currencies in my form. What do I do?
 
 You can add them in the *overview* sheet or using the *other* fields in the form.
-The form will then be automatically updated after a reload. *This may need some seconds of time.*
+The form can then be updated using Add-ons->Gruppenkasse->Update form. *This may need some seconds of time and a reload of the form.*
 
 ### How do I remove a name or curency from my form and sheets?
 
 You will need to remove it from all responses in the response sheet and the overview sheet.
-Otherwise it will automagically be readded.
+Otherwise it will automagically be readded when *Update form* is trigered.
 
 ## Pittfalls
 

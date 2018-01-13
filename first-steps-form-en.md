@@ -12,7 +12,7 @@ lang: en
 
 <div class="w3-display-container mySlides">
   <div class="w3-container" style="height:80px">
-  <p>The initial form is named after the chosen register name and has no names and currencies.</p>
+  <p>The initial form is named after the chosen register name.</p>
   </div>
   <div class="w3-container">
   <img src="/assets/images/de/form_init.jpg" style="display:block;margin:auto;width:500px">
@@ -21,7 +21,7 @@ lang: en
 
 <div class="w3-display-container mySlides">
   <div class="w3-container" style="height:80px">
-  <p>You can use the <code class="highlighter-rouge">Other</code> fields to register non existing currencies and lists of comma separated persons.</p>
+  <p>You can use the <code class="highlighter-rouge">Other</code> fields to enter non existing currencies and lists of comma separated persons. The <code class="highlighter-rouge">Overview</code> will automatically be extended by them.</p>
   </div>
   <div class="w3-container">
   <img src="/assets/images/de/form_filled.jpg" style="display:block;margin:auto;width:500px">
@@ -30,7 +30,7 @@ lang: en
 
 <div class="w3-display-container mySlides">
   <div class="w3-container" style="height:80px">
-  <p>Some seconds after a submission, the form gets updated with known currencies and names.</p>
+  <p>Some seconds after activating <code class="highlighter-rouge">Add-ons->Gruppenkasse->Update form</code> in the Menu, the form gets updated with known currencies and names.</p>
   </div>
   <div class="w3-container">
   <img src="/assets/images/de/form_updated.jpg" style="display:block;margin:auto;width:500px">

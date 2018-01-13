@@ -5,7 +5,7 @@ lang: de
 ---
 ## Datenschutzerklärung
 
-Das Gruppenkasse Add-on ist freie Software. Ich habe kein Interesse an euren Daten.
+Das Gruppenkasse Add-on ist freie Software. Ich habe kein Interesse an irgendwelchen Daten.
 Es werden keine Daten durch dieses Add-on die Google-Server verlassen.
 
 ### Datenzugriff
@@ -25,7 +25,7 @@ Wird benutzt um das Gruppenkasse Add-ons Submenü zu erstellen.
 
 ##### Script Scriptapp
 
-Wird benötigt um auf änderungen an den erstellten Tabellen reagieren zu können.
+Wird benötigt um auf Änderungen an den erstellten Tabellen reagieren zu können.
 
 ##### Spreadsheets
 

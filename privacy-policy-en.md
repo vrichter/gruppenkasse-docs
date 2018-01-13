@@ -5,7 +5,7 @@ lang: en
 ---
 ## Privacy Policy
 
-The Gruppenkasse Add-on is free software. I have no interest in your data.
+The Gruppenkasse Add-on is free software. I have no interest in any data.
 No data will leave the google-servers through this add-on.
 
 ### Data access
@@ -37,7 +37,7 @@ This is needed for creating and editing Forms.
 
 ##### Drive
 
-This is needed to open the created Form for updates and delete it.
+This is needed to open the created Form for updates and to delete it.
 
 ### Data Saving
 
